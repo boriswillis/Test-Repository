@@ -1,6 +1,7 @@
 ok
 Well then.
 Here we go and all that.
+<<<<<<< HEAD
 dfdjfkdl
 
 What is happening?
@@ -20,3 +21,13 @@ and this is not
 jdklfa;kdja
 ajdkf;lkajd
 ajdkla;fjkds
+=======
+
+What is happening?
+
+I can't stand this. I am going crazy
+
+Is this branching?
+
+how about now?
+>>>>>>> well
